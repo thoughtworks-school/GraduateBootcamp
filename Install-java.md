@@ -23,3 +23,8 @@ git remote set-url origin your_remote_repo
 - 获取分支（该题目分支填写master即可）
 - 提交
 - 等待结果
+
+---------------------------------------------------------------------------
+
+### 题目仓库地址
+https://github.com/tws-online-quiz/install-java
