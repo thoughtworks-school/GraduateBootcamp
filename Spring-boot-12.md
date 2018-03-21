@@ -6,9 +6,8 @@
 - 学习使用spring boot启动一个spring mvc项目
 
 ## 学习资料
-- Spring boot学习网站：
-https://projects.spring.io/spring-boot/
-https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+- [Spring Boot快速入门](https://projects.spring.io/spring-boot/)
+- [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
 
 ## 自学任务
