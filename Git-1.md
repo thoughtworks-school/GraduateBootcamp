@@ -30,3 +30,6 @@ git clone repo_of_this_template
 - 提交
 - 等待结果
 ---------------------------------------------------------------------------
+
+### 题目仓库地址
+https://github.com/tws-online-quiz/git-quiz.git
