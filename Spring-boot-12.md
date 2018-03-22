@@ -6,11 +6,11 @@
 - 学习使用spring boot启动一个spring mvc项目
 
 ## 学习资料
-- Spring Boot快速入门: https://projects.spring.io/spring-boot/
-- Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
-- Spring Boot Reference Guide: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
-- git commit 资料：http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
-- git小步提交 资料：http://www.10tiao.com/html/568/201512/401030521/1.html
+- [Spring Boot快速入门](https://projects.spring.io/spring-boot/)
+- [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
+- [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [git commit 资料](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- [git小步提交 资料](http://www.10tiao.com/html/568/201512/401030521/1.html)
 
 ## 自学任务
 - 学习使用spring boot 的注解，配置文件，Jpa，Web
