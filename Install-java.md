@@ -4,14 +4,13 @@
 ## 任务卡描述
 
 ### 学习目标
-- 学习如何在系统中配置Java环境
 - 学习如何在主流操作系统中配置Java环境
 - 学习JDK安装与环境变量配置
 ### 学习资料
-- 官网: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-- Windows资料: http://www.cnblogs.com/liuhongfeng/p/4177568.html
-- Ubuntu资料: http://topspeedsnail.com/ubuntu16-install-java-jdk/
-- Mac资料: https://www.jianshu.com/p/0036a344509e
+- Jdk官网: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- Windows环境安装Java: http://www.cnblogs.com/liuhongfeng/p/4177568.html
+- Ubuntu环境下安装Java: http://topspeedsnail.com/ubuntu16-install-java-jdk/
+- Mac环境下安装Java: https://www.jianshu.com/p/0036a344509e
 ### 答题流程
 - 在用户本地任意目录下clone此题目库 
 ```
