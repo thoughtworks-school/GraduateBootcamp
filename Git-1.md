@@ -10,6 +10,8 @@
 ### 学习资料
 - git教学网站: http://try.github.com/
 - Git 完整命令手册地址：http://git-scm.com/docs
+- git commit 资料：http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+- git小步提交 资料：http://www.10tiao.com/html/568/201512/401030521/1.html
 
 ### 自学任务
 - 学习使用git创建仓库

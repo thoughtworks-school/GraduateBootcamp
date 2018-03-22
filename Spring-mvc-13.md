@@ -1,4 +1,3 @@
-
 # Spring MVC基础
 
 ## 学习目标
@@ -11,6 +10,8 @@
 - Spring Mvc Web框架： https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-web-applications.html
 - thymeleaf官网：https://www.thymeleaf.org/
 - Velocity教程：https://www.jianshu.com/p/5913903324ff
+- git commit 资料：http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+- git小步提交 资料：http://www.10tiao.com/html/568/201512/401030521/1.html
 
 
 ## 自学任务
