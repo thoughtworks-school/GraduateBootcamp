@@ -4,9 +4,14 @@
 ## 任务卡描述
 
 ### 学习目标
-- 掌握如何在系统中配置Java环境
+- 学习如何在系统中配置Java环境
+- 学习如何在主流操作系统中配置Java环境
+- 学习JDK安装与环境变量配置
 ### 学习资料
-- 下载地址(包含linux，mac，windows)：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- 官网: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- Windows资料: http://www.cnblogs.com/liuhongfeng/p/4177568.html
+- Ubuntu资料: http://topspeedsnail.com/ubuntu16-install-java-jdk/
+- Mac资料: https://www.jianshu.com/p/0036a344509e
 ### 答题流程
 - 在用户本地任意目录下clone此题目库 
 ```
@@ -14,7 +19,7 @@ git clone repo_of_this_template
 ```
 - 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述（题目的README.md中）
-- 将使用`java -version`命令输出的截图result.png，放入项目根目录下
+- 完成题目需求
 - 本地设置远程仓库
 ````
 git remote set-url origin your_remote_repo
