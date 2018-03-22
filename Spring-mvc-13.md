@@ -27,7 +27,7 @@ git clone repo_of_this_template
 - 在github上创建远端仓库(此处使用`your_remote_repo`代替你在github上创建的远端仓库)
 - 设置远程仓库
 ````
-git remote add origin your_remote_repo`
+git remote set-url origin your_remote_repo`
 ````
 - 在本地使用**git提交(commit)**并**上传(push)**，之后将github仓库地址(your_remote_repo) eg:（https://github.com/username/your_remote_repo） 填入到提交地址一栏 
 - 获取分支（该题目分支填写master即可）

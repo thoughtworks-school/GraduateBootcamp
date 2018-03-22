@@ -19,7 +19,7 @@ git clone repo_of_this_template
 - 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述（题目的README.md中）
 - 完成题目需求
-- 本地设置远程仓库
+- 设置远程仓库
 ````
 git remote set-url origin your_remote_repo
 ````
