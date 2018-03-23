@@ -1,40 +1,27 @@
 # MySQL基础
-Dev:  zhangpei
------------------------------------------------
 
 ## 任务卡描述
 
 ## 学习目标
-- 本地安装MYSQL
-- 学习使用MYSQL的基本创建语句
-- 学习使用MYSQL的单表多表查询语句
+- 本地安装MySQL
+- 学习使用MySQL的基本创建语句
+- 学习使用MySQL的单表多表查询语句
 
 ## 学习资料
-- [MYSQL安装](https://www.mysql.com/downloads/)
-- [MYSQL教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+- [MySQL安装](https://www.mysql.com/downloads/)
+- [MySQL教程](http://www.runoob.com/mysql/mysql-tutorial.html)
 
 
 ## 自学任务
-- 学习使用MYSQL的基本创建语句
-- 学习使用MYSQL的单表多表查询语句并完成所有查询题目
+- 学习使用MySQL的基本创建语句
+- 学习使用MySQL的单表多表查询语句并完成所有查询题目
 
 ### 答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 `git clone repo_of_this_template`
 - 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述（题目的README.md以及practice1-4中注释）
 - 完成`practice1-practice4`文件中的所有需求
-- 创建新的文件`result.txt`
-- 将每个practice的查询结果都粘贴至`result.txt`文件中
-  - 举个例子：
-  ```
-   practice1
-   +----+------------+-----+----------+-----------+--------+
-   | id | name       | age | gender   | companyId | salary |
-   +----+------------+-----+----------+-----------+--------+
-   |  1 | '********' |  19 | 'female' |         1 |   7000 |
-   +----+------------+-----+----------+-----------+--------+
-  
-  ```
+- 按照题目中README.md`输出规范`部分完成题目提交要求
 - 在用户github上创建远端仓库(此处使用`your_remote_repo`代替你在github上创建的远端仓库)
 - 本地使用`git remote set-url origin your_remote_repo`
 - 在本地使用**git提交(commit)**并**上传(push)**，之后将github仓库地址(your_remote_repo) eg:（https://github.com/username/your_remote_repo） 填入到提交地址一栏 
