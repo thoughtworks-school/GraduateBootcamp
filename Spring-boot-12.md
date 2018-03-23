@@ -7,21 +7,21 @@
 
 ## 学习资料
 - [Spring Boot快速入门](https://projects.spring.io/spring-boot/)
+- [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 - [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-
+- [git commit 资料](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+- [git小步提交 资料](http://www.10tiao.com/html/568/201512/401030521/1.html)
 
 ## 自学任务
-- 学习使用spring boot
+- 学习使用spring boot 的注解，配置文件，Jpa，Web
 - 学习spring mvc概念及作用
 
 ## 答题流程
 - 在本地自行启动一个spring boot项目
-- 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述（题目的README.md中）
-- 完成题目要求后，使用postman向接口发送请求，获取请求结果，并且截图，图片传入项目根目录下并且命名为`result.png`
-- 在用户github上创建远端仓库(此处使用`your_remote_repo`代替你在github上创建的远端仓库)
-- 本地使用`git remote set-url origin your_remote_repo`
-- 在本地使用**git提交(commit)**并**上传(push)**，之后将github仓库地址(your_remote_repo) eg:（https://github.com/username/your_remote_repo） 填入到提交地址一栏
+- 完成题目需求
+- 在用户github上创建远端仓库
+- 将本地代码提交至远程仓库，然后将仓库地址提交至输入框
 - 获取分支（该题目分支填写master即可）
 - 提交
 - 等待结果
