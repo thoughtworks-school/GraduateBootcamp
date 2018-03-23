@@ -1,3 +1,6 @@
+# Java综合练习
+
+-----------------------------------------------
 
 ## 学习目标
 + 掌握gradle 的基础
@@ -45,5 +48,5 @@ git remote set-url origin my_url
 
 
 
-题目：
+## 题目仓库地址
 https://github.com/tws-online-quiz/student-grade-command-basic-java
