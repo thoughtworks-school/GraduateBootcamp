@@ -7,14 +7,17 @@
 ### 学习目标
 
 - 学习如何在主流操作系统中配置Docker环境
+- 了解Docker的基本概念
 
 ### 学习资料
+
 - 什么是Docker：https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html
 - mac下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/mac.html
 - ubuntu下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/ubuntu.html 
 - windows下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/windows.html
 
 ### 答题流程
+
 - 在用户本地任意目录下clone此题目库 
 ```
 git clone repo_of_this_template
