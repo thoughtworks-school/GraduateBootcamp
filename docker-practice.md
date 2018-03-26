@@ -11,15 +11,17 @@
 - 了解容器的虚拟化
 
 ### 学习资料
+
 - Docker入门：http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html
 - Docker 教程：http://www.runoob.com/docker/docker-tutorial.html
 
 
 ### 自学任务
+
 - 学习Docker镜像（Image），容器（Container），仓库（Repository）
 - 学习Docker的[基本操作命令](https://yeasy.gitbooks.io/docker_practice/content/appendix/command/)
-- 学习Dockerfile
-- 学习的在本地搭建Jenkins
+- 学习Dockerfile的书写
+- 学习使用Docker的Jenkins镜像
 
 ### 答题流程
 
