@@ -11,7 +11,7 @@
 
 ## 自学任务
 
-- 学习设计RESTful API，[理解RESTful API 设计例子](http://blog.jobbole.com/41233/)
+- 学习设计RESTful API，[RESTful API 设计例子](http://blog.jobbole.com/41233/)
 
 ## 编程题答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 
@@ -36,4 +36,4 @@ git remote set-url origin your_remote_repo`
 
 题目代码：
 
-https://github.com/tws-online-quiz/spring-boot-jsp-quiz
+https://github.com/tws-online-quiz/restful-api
