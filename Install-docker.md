@@ -1,18 +1,23 @@
-# 打造程序员的专业工作环境：安装Java 
+# 安装Docker
 
 -----------------------------------------------
 
 ## 任务卡描述
 
 ### 学习目标
-- 学习如何在主流操作系统中配置Java环境
-- 学习JDK安装与环境变量配置
+
+- 学习如何在主流操作系统中配置Docker环境
+- 了解Docker的基本概念
+
 ### 学习资料
-- Jdk官网: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-- Windows环境安装Java: http://www.cnblogs.com/liuhongfeng/p/4177568.html
-- Ubuntu环境下安装Java: http://topspeedsnail.com/ubuntu16-install-java-jdk/
-- Mac环境下安装Java: https://www.jianshu.com/p/0036a344509e
+
+- 什么是Docker：https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html
+- mac下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/mac.html
+- ubuntu下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/ubuntu.html 
+- windows下载教程：https://yeasy.gitbooks.io/docker_practice/content/install/windows.html
+
 ### 答题流程
+
 - 在用户本地任意目录下clone此题目库 
 ```
 git clone repo_of_this_template
@@ -32,4 +37,4 @@ git remote set-url origin your_remote_repo
 ---------------------------------------------------------------------------
 
 ### 题目仓库地址
-https://github.com/tws-online-quiz/install-java
+https://github.com/tws-online-quiz/install-docker

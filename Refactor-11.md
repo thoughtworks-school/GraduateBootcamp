@@ -1,5 +1,6 @@
-
 # 重构基础：Java版
+
+---------------------------------------------------------------------------
 
 ## 学习目标
 + 了解重构的含义和意义
@@ -30,4 +31,5 @@
 
 
 
-Github 地址：https://github.com/tws-online-quiz/refactor-basic-java
+## 题目仓库地址
+https://github.com/tws-online-quiz/refactor-basic-java

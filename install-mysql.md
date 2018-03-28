@@ -1,17 +1,17 @@
-# 打造程序员的专业工作环境：安装Java 
+# 安装 MySQL
 
 -----------------------------------------------
 
 ## 任务卡描述
 
 ### 学习目标
-- 学习如何在主流操作系统中配置Java环境
-- 学习JDK安装与环境变量配置
+- 学习如何在主流操作系统下安装MySQL的教程
+
 ### 学习资料
-- Jdk官网: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-- Windows环境安装Java: http://www.cnblogs.com/liuhongfeng/p/4177568.html
-- Ubuntu环境下安装Java: http://topspeedsnail.com/ubuntu16-install-java-jdk/
-- Mac环境下安装Java: https://www.jianshu.com/p/0036a344509e
+- [Windows环境安装MySQL](https://www.jianshu.com/p/710e5861c198)
+- [Linux环境安装MySQL](https://blog.csdn.net/lizuqingblog/article/details/18423751)
+- [Mac环境安装MySQL](https://www.jianshu.com/p/a8e4068a7a8a)
+
 ### 答题流程
 - 在用户本地任意目录下clone此题目库 
 ```
@@ -32,4 +32,4 @@ git remote set-url origin your_remote_repo
 ---------------------------------------------------------------------------
 
 ### 题目仓库地址
-https://github.com/tws-online-quiz/install-java
+https://github.com/tws-online-quiz/install-mysql
