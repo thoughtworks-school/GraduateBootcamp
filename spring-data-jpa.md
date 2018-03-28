@@ -3,15 +3,14 @@
 ## 任务卡描述
 
 ## 学习目标
-- 学习在已有的 `Spring Boot` 项目中集成 `Spring Data JPA`
-- 学习使用 `Spring Data JPA` 来操作实体对象，执行对MySQL的 `CRUD (增删改查)` 操作
-- 学习使用 `Flyway` 对数据库做版本控制
+- 学习使用 `Spring Data JPA` 执行对MySQL的 `CRUD (增删改查)` 操作
 - 学习使用 `Data Jpa test` 对 `repository` 做测试
 
 ## 学习资料
 - [Spring Data JPA官方文档](https://projects.spring.io/spring-data-jpa/)
 - [Spring Data JPA教程](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
 - [Flyway官方文档](https://flywaydb.org/)
+- [Data JPA Test教程](http://www.baeldung.com/spring-boot-testing)
 
 ## 自学任务
 - 使用 `Flyway` 对数据库进行版本控制以及数据迁移
@@ -20,6 +19,7 @@
 
 ### 答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 `git clone repo_of_this_template`
+  - 或者使用自己之前完成的 `Spring Boot` 项目作为 `code base` 
 - 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述
 - 按照题目要求完成练习
