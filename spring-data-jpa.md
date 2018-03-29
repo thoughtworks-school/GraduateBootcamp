@@ -1,25 +1,25 @@
-# MySQL基础
-
----------------------------------------------------------------------------
+# Spring Data JPA
 
 ## 任务卡描述
 
 ## 学习目标
-- 本地安装MySQL
-- 学习使用MySQL的基本创建语句
-- 学习使用MySQL的单表多表查询语句
+- 学习使用 `Spring Data JPA` 对MySQL进行操作
+- 学习使用 `Data Jpa test` 进行测试
 
 ## 学习资料
-- [MySQL安装](https://www.mysql.com/downloads/)
-- [MySQL教程](http://www.runoob.com/mysql/mysql-tutorial.html)
-
+- [Spring Data JPA官方文档](https://projects.spring.io/spring-data-jpa/)
+- [Spring Data JPA教程](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- [Flyway官方文档](https://flywaydb.org/)
+- [Data JPA Test教程](http://www.baeldung.com/spring-boot-testing)
 
 ## 自学任务
-- 学习使用MySQL的基本创建语句
-- 学习使用MySQL的单表多表查询语句并完成所有查询题目
+- 使用 `Flyway` 对数据库进行版本控制以及数据迁移
+- 使用 `Spring Data JPA` 执行对MySQL的 `CRUD (增删改查)` 操作
+- 使用 `Data JPA Test` 对完成的 `repository` 进行测试
 
 ### 答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 `git clone repo_of_this_template`
+  - 或者使用自己之前完成的 `Spring Boot` 项目作为 `code base` 
 - 本地进入项目根目录
 - 请用户仔细阅读题目要求和题目描述
 - 按照题目要求完成练习
@@ -29,11 +29,9 @@
 - 获取分支（该题目分支填写master即可）
 - 提交
 - 等待结果
----------------------------------------------------------------------------
-
 
 ## 题目仓库地址
-https://github.com/tws-online-quiz/MySQL-Quiz.git
+https://github.com/tws-online-quiz/Spring-Data-JPA-Quiz
 
 
 
