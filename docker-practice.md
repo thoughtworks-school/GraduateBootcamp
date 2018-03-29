@@ -1,4 +1,4 @@
-# Docker练习
+# 基于Docker打造Jenkins Pipeline
 
 -----------------------------------------------
 
@@ -13,16 +13,16 @@
 
 ### 学习资料
 
-- Docker入门：http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html
-- Docker 教程：http://www.runoob.com/docker/docker-tutorial.html
-- Jenkins入门：https://www.jianshu.com/p/144254a055ba
-- 使用Jenkins进行持续集成：https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000
-
+- [Docker入门](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+- [Docker教程](http://www.runoob.com/docker/docker-tutorial.html)
+- [Jenkins入门](https://www.jianshu.com/p/144254a055ba)
+- [使用Jenkins进行持续集成](https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000)
+- [Docker基本命令](https://yeasy.gitbooks.io/docker_practice/content/appendix/command/)
 
 ### 自学任务
 
 - 学习Docker镜像（Image），容器（Container），仓库（Repository）
-- 学习Docker的[基本操作命令](https://yeasy.gitbooks.io/docker_practice/content/appendix/command/)
+- 学习Docker的基本操作命令
 - 学习使用Docker的Jenkins镜像
 - 学习Jenkins pipeline的基本使用
 - 了解Dockerfile的书写
