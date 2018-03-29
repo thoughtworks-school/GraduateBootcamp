@@ -3,15 +3,19 @@
 ## 学习目标
 - 理解RESTful架构
 - 掌握RESTful API 的设计
+- 学习Flyway的使用
 
 ## 学习资料
 - RESTful架构：http://www.ruanyifeng.com/blog/2011/09/restful.html
 - RESTful设计指南：http://www.ruanyifeng.com/blog/2014/05/restful_api.html
 - 理解REST，以及RESTful：https://www.zhihu.com/question/28557115
+- Flyway入门：https://flywaydb.org/getstarted/
+- 快速掌握和使用Flyway：https://blog.waterstrong.me/flyway-in-practice/
 
 ## 自学任务
 
 - 学习设计RESTful API，[RESTful API 设计例子](http://blog.jobbole.com/41233/)
+- 学习使用Flyway对你的数据库进行版本控制
 
 ## 编程题答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 
