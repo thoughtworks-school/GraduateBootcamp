@@ -5,7 +5,7 @@
 ## 任务卡描述
 
 ### 学习目标
-- 学习如何在主流操作系统下安装MySQL的教程
+- 学习如何在主流操作系统下安装MySQL
 
 ### 学习资料
 - [Windows环境安装MySQL](https://www.jianshu.com/p/710e5861c198)
