@@ -2,8 +2,8 @@
 
 ## 学习目标
 - 理解RESTful架构
-- 掌握RESTful API 的设计
-- 学习Flyway的使用
+- 掌握RESTful API的设计
+- 学习Flyway的使用，掌握基本命令的使用
 
 ## 学习资料
 - RESTful架构：http://www.ruanyifeng.com/blog/2011/09/restful.html
