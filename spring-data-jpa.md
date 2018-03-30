@@ -4,7 +4,7 @@
 
 ## 学习目标
 - 学习使用 `Spring Data JPA` 对MySQL进行操作
-- 学习使用 `Data Jpa test` 进行测试
+- 学习使用 `Data JPA test` 对 `repository`进行测试
 
 ## 学习资料
 - [Spring Data JPA官方文档](https://projects.spring.io/spring-data-jpa/)
