@@ -31,3 +31,10 @@ git clone repo_of_this_template
 ### 截止日期
 
 2018年6月30日
+
+---
+
+### 题目仓库地址
+
+- https://github.com/tws-online-quiz/codingbat
+- https://github.com/tws-online-quiz/w3resource-java
