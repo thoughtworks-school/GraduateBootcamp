@@ -10,7 +10,8 @@
 
 ### 自学任务
 
-- 学习java基础语法
+- 阅读教程中《Java Tutorial》的所有章节
+- 阅读教程中《Java Object Oriented》的所有章节
 
 ### 答题流程
 
