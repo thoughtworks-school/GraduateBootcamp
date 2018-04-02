@@ -13,6 +13,9 @@
 ### 学习资料
 - TDD学习：https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm
 - 使用IntelliJ进行TDD：https://www.jetbrains.com/help/idea/tutorial-test-driven-development.html
+- Junit学习: http://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions
+- Mockito学习: http://site.mockito.org/
+- 从一个小例子学习TDD: http://icodeit.org/2014/11/tdd-step-by-step/
 
 ### 答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 `git clone repo_of_this_template`
