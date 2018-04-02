@@ -5,12 +5,15 @@
 ## 学习目标
 - 学习使用 `Spring Data JPA` 对MySQL进行操作
 - 学习使用 `Data JPA test` 对 `repository`进行测试
+- 学习Flyway的使用，掌握基本命令的使用
 
 ## 学习资料
 - [Spring Data JPA官方文档](https://projects.spring.io/spring-data-jpa/)
 - [Spring Data JPA教程](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
 - [Flyway官方文档](https://flywaydb.org/)
 - [Data JPA Test教程](http://www.baeldung.com/spring-boot-testing)
+- [Flyway入门](https://flywaydb.org/getstarted/)
+- [快速掌握和使用Flyway](https://blog.waterstrong.me/flyway-in-practice/)
 
 ## 自学任务
 - 使用 `Flyway` 对数据库进行版本控制以及数据迁移
