@@ -13,7 +13,7 @@
 1. [任务分解](https://www.zybuluo.com/jtong/note/504192) 
 2. [Gradle基础教程](http://tutorials.jenkov.com/gradle/gradle-tutorial.html)
 3. [Java 基础](http://www.runoob.com/java/java-tutorial.html)
-4. [Junit 中文文档](http://junit.org/junit5/docs/current/user-guide/#writing-tests-assertions)
+4. [Junit4 入门教程](https://www.jianshu.com/p/7088822e21a3)
 5. [Mockito 官网](http://static.javadoc.io/org.mockito/mockito-core/2.17.0/org/mockito/Mockito.html)
 
 ## 自学任务
