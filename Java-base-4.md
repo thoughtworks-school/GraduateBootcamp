@@ -6,20 +6,21 @@
 
 ### 学习目标
 - 学习java基础语法以及集合概念
-- 学习使用java8 stream api
+- 学习使用java8 新特性
 - 学习使用gradle管理项目
 - 学习并使用junit
 
 ### 学习资料
 - java教学网站: https://www.tutorialspoint.com/java/index.htm
 - java8教学网站：https://www.tutorialspoint.com/java8/index.htm
-- junit教学网站：https://junit.org/junit5/ https://www.tutorialspoint.com/junit/index.htm
+- junit教学网站：https://www.tutorialspoint.com/junit/index.htm
+- junit5官方文档：https://junit.org/junit5/ 
 
 ### 自学任务
 - 学习java基础语法
 - 学习使用java集合
 - 学习如何使用gradle管理你的项目
-- 学习java8 Lambda 表达式、方法引用 、Stream API 
+- 学习java8 新特性之 Lambda 表达式、方法引用 、Stream API 
 - 学习如何使用junit做测试
 
 ### 答题流程
