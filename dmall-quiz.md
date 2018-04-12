@@ -11,7 +11,7 @@
 - [Docker中安装MySQL镜像](http://pwcong.me/2016/03/17/Docker%E6%90%AD%E5%BB%BAMySQL%E6%9C%8D%E5%8A%A1/)
 - [Postman collection教程](https://www.getpostman.com/docs/v6/postman/collections/intro_to_collections)
 - [使用Postman测试API](http://blog.ideasriver.com/using-postman-to-test-api/)
-- [Jenkins+Postman+Newman之API全自动化测试](https://juejin.im/entry/578ecaa879bc44005fff39af)
+- [Newman教程](http://blog.text.wiki/2017/04/25/newman-develop-tutorial.html)
 
 ## 自学任务
 - 学习在 Docker 中安装 MySQL，Jenkins 镜像
