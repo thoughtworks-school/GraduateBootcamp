@@ -2,13 +2,20 @@
 
 ## 学习目标
 - 学习使用Postman API做测试
+- 学习在docker中安装镜像
+- 了解Newman的用法
 
 ## 学习资料
-- [postman collection教程](https://www.getpostman.com/docs/v6/postman/collections/intro_to_collections)
+- [Jenkins中创建job并配置node环境](https://www.jianshu.com/p/72a47fa4bf40)
+- [Docker搭建MySQL服务](http://pwcong.me/2016/03/17/Docker%E6%90%AD%E5%BB%BAMySQL%E6%9C%8D%E5%8A%A1/)
+- [Postman collection教程](https://www.getpostman.com/docs/v6/postman/collections/intro_to_collections)
+- [使用Postman测试API](http://blog.ideasriver.com/using-postman-to-test-api/)
 
 ## 自学任务
-- 学习Postman collection做API自动化测试
-- 
+- 学习在 docker 中安装 MySQL，Jenkins 镜像
+- 学习使用 Jenkins 创建job并配置node环境
+- 学习使用 Postman collection 做API自动化测试
+- 学习使用 Newman 对 Postman collection做集成测试
 
 ## 编程题答题流程
 - 在命令行中使用以下命令在用户本地任意目录下clone此题目库 
@@ -25,10 +32,6 @@ git remote set-url origin your_remote_repo`
 - 获取分支（该题目分支填写master即可）
 - 提交
 - 等待结果
-
-
-
-
 
 
 题目代码：
