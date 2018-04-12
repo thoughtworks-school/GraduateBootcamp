@@ -1,10 +1,11 @@
 # 京西商城
 
 ## 学习目标
-- 学习Jenkins的配置
-- 学习在Docker中安装镜像
-- 学习使用Postman API做测试
-- 了解Newman的用法
+- 基于REST规范实现API服务
+- 搭建Jenkins持续集成环境
+- 在Docker中搭建MySQL服务
+- 使用Postman进行API测试
+- 使用Newman自动化Postman API测试
 
 ## 学习资料
 - [Jenkins中创建并配置Freestyle项目](https://www.jianshu.com/p/72a47fa4bf40)
@@ -14,8 +15,8 @@
 - [Newman教程](http://blog.text.wiki/2017/04/25/newman-develop-tutorial.html)
 
 ## 自学任务
-- 学习在 Docker 中安装 MySQL，Jenkins 镜像
-- 学习使用 Jenkins 创建job并配置node环境
+- 学习在 Docker 中安装 MySQL、Jenkins 镜像
+- 学习使用 Jenkins 创建job并配置Node.js环境
 - 学习使用 Postman collection 对API进行测试
 - 学习使用 Newman 对 Postman collection做集成测试
 
